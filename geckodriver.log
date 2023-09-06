@@ -1,0 +1,69 @@
+1694031488491	geckodriver	INFO	Listening on 127.0.0.1:51611
+1694031491515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MOSHPI~1\\AppData\\Local\\Temp\\rust_mozprofileLnzskT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694031491962	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694031492033	Marionette	INFO	Listening on port 51622
+WebDriver BiDi listening on ws://127.0.0.1:51612
+Read port: 51622
+1694031492369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51612/devtools/browser/b3f4de10-695d-4d44-92fa-64f05288d42c
+JavaScript warning: https://accounts.scdn.co/sso/js/indexReact.8a71f777bd41c7dd2842.js, line 1: unreachable code after return statement
+JavaScript warning: https://accounts.scdn.co/sso/js/indexReact.8a71f777bd41c7dd2842.js, line 1: unreachable code after return statement
+JavaScript warning: https://accounts.scdn.co/sso/js/indexReact.8a71f777bd41c7dd2842.js, line 1: unreachable code after return statement
+JavaScript warning: https://accounts.scdn.co/sso/js/indexReact.8a71f777bd41c7dd2842.js, line 1: unreachable code after return statement
+JavaScript warning: https://accounts.scdn.co/sso/js/indexReact.8a71f777bd41c7dd2842.js, line 1: unreachable code after return statement
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1694031996019	Marionette	INFO	Stopped listening on port 51622
+Dynamically enable window occlusion 1
+1694036351534	geckodriver	INFO	Listening on 127.0.0.1:56294
+1694036354561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MOSHPI~1\\AppData\\Local\\Temp\\rust_mozprofilePkYsAF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694036354874	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694036354935	Marionette	INFO	Listening on port 56304
+WebDriver BiDi listening on ws://127.0.0.1:56295
+Read port: 56304
+1694036355132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56295/devtools/browser/5cc6600b-0f15-455e-9dfc-c2618bac90ea
+JavaScript warning: https://accounts.scdn.co/sso/js/indexReact.8a71f777bd41c7dd2842.js, line 1: unreachable code after return statement
+JavaScript warning: https://accounts.scdn.co/sso/js/indexReact.8a71f777bd41c7dd2842.js, line 1: unreachable code after return statement
+JavaScript warning: https://accounts.scdn.co/sso/js/indexReact.8a71f777bd41c7dd2842.js, line 1: unreachable code after return statement
+JavaScript warning: https://accounts.scdn.co/sso/js/indexReact.8a71f777bd41c7dd2842.js, line 1: unreachable code after return statement
+JavaScript warning: https://accounts.scdn.co/sso/js/indexReact.8a71f777bd41c7dd2842.js, line 1: unreachable code after return statement
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1694036883375	Marionette	INFO	Stopped listening on port 56304
+JavaScript warning: https://mrkt-web.scdn.co/charts-spotify-com/_next/static/chunks/pages/_app-0ec0d406787e20cc.js, line 1: Script terminated by timeout at:
+i@https://mrkt-web.scdn.co/charts-spotify-com/_next/static/chunks/pages/_app-0ec0d406787e20cc.js:1:60874
+
+Dynamically enable window occlusion 1
+1694037401032	geckodriver	INFO	Listening on 127.0.0.1:58034
+1694037404081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MOSHPI~1\\AppData\\Local\\Temp\\rust_mozprofileCyNcg7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694037404356	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694037404433	Marionette	INFO	Listening on port 58042
+WebDriver BiDi listening on ws://127.0.0.1:58035
+Read port: 58042
+1694037404625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58035/devtools/browser/6cfab5e4-9280-4010-9049-1100f6ca4123
+JavaScript warning: https://accounts.scdn.co/sso/js/indexReact.8a71f777bd41c7dd2842.js, line 1: unreachable code after return statement
+JavaScript warning: https://accounts.scdn.co/sso/js/indexReact.8a71f777bd41c7dd2842.js, line 1: unreachable code after return statement
+JavaScript warning: https://accounts.scdn.co/sso/js/indexReact.8a71f777bd41c7dd2842.js, line 1: unreachable code after return statement
+JavaScript warning: https://accounts.scdn.co/sso/js/indexReact.8a71f777bd41c7dd2842.js, line 1: unreachable code after return statement
+JavaScript warning: https://accounts.scdn.co/sso/js/indexReact.8a71f777bd41c7dd2842.js, line 1: unreachable code after return statement
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.spotify.com."
+1694037436781	Marionette	INFO	Stopped listening on port 58042
+Dynamically enable window occlusion 1
